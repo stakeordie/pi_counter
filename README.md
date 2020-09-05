@@ -2,7 +2,7 @@
 
 The contract increments by 314.
 
-To see the code that allows it to do this magic, see src/contract.rs line 540
+To see the code that allows it to do this magic, see src/contract.rs line 40
 
 # Secret Contracts Starter Pack
 
