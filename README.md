@@ -1,3 +1,9 @@
+# PI COUNTER
+
+The contract increments by 314.
+
+To see the code that allows it to do this magic, see src/contract.rs line 540
+
 # Secret Contracts Starter Pack
 
 This is a template to build secret contracts in Rust to run in
